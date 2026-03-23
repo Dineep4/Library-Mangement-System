@@ -1,4 +1,4 @@
-# 📚 Java Library Management System (MongoDB)
+# 📚 Java Library Management System 
 
 ## 🚀 Project Overview
 
